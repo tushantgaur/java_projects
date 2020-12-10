@@ -7,6 +7,6 @@ public class HK_Firstclass {
         Scanner scan=new Scanner(System.in);
         System.out.println("Hare Krishna");
         int chanting_rounds=scan.nextInt();
-        System.out.println("How many rounds today :"+chanting_rounds);
+        System.out.println("How many rounds today ::"+chanting_rounds);
     }
 }
