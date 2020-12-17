@@ -47,5 +47,6 @@ class Tushant{
         obj1.show();
         HK_Constructor.Static_InnerClass obj2=new HK_Constructor.Static_InnerClass();
         obj2.showstaticinnerclass();
+
     }
 }
